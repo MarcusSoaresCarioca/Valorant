@@ -76,17 +76,20 @@
     margin-top: 15px;
   }
 }
-.container00.container01 {
+.container01 {
   background-image: url(../../img/home/p4.gif);
 }
-.container00.container02 {
-  background-image: url(../../img/Home/p1.jpg);
+
+.container02 {
+  background-image: url(../../img/home/p1.jpg);
 }
-.container00.container03 {
-  background-image: url(../../img/Home/p2.jpg);
+
+.container03 {
+  background-image: url(../../img/home/p2.jpg);
 }
-.container00.container04 {
-  background-image: url(../../img/Home/p3.png);
+
+.container04 {
+  background-image: url(../../img/home/p3.png);
 }
 
 .imgv {
