@@ -1,3 +1,39 @@
 .container02 {
-    background-image: url(../img/valorant_map_lotus\ melhorada.png);
+    background-image: url(../img/wallpaper/wallpaper01.jpg);
+    
   }
+
+  .container03 {
+    background-image: url(../img/wallpaper/icebox.jpg);
+  
+  }
+
+  .mondal-text{
+    color: black;
+  }
+
+  .bg-modal{
+    background-color: black;
+  }
+  .txt-maps{
+    font-size: 250px;
+  }
+
+  .carousel-item{
+    
+  }
+
+  .txt-p{
+    font-size: 35px;
+  }
+
+  .bind{
+    font-size: 30px;
+  }
+
+  .carousel-edit {
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-right: 30px;
+  }
+  
